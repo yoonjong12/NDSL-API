@@ -49,3 +49,5 @@ pre.getToken([query[0]], 'abstract/patent_', 'abstract/patent_')
 ## 4. 토픽모델링
 지금까지 진행한 과정을 거쳐서 얻은 데이터로 토픽모델링을 진행했습니다.
 자세한 내용은 ipynb 파일을 확인해주세요
+
+https://github.com/yoonjong12/NDSL-API/blob/master/LDA_Gensim.ipynb
