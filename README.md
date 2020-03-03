@@ -42,6 +42,7 @@ Konlpy는 https://konlpy.org/ 를 참고해주세요.
 import preprocessing
 from konlpy.tag import Okt
 
+okt = Okt()
 pre = preprocessing.Preprocess(okt)
 pre.getToken([query[0]], 'abstract/patent_', 'abstract/patent_')
 ```
